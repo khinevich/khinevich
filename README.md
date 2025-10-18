@@ -1,14 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mikhail Khinevich
+Hi, jo jo jo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Mikhail Khinevich!
 ==========================================================================================================================================
 
-Mobile and Backend Developer
+Passion Software Engineer and Snowboarder
 ----------------------------
 
-Software engineer with experience in full-cycle app development, system architecture, and business growth. Specialized in Automotive and EnergyTech Sectors, delivering scalable applications following UI/UX guidelines, decision-making algorithms, and high-performance architectures. Passionate about creating impactful software solutions that enhance efficiency, automation, and business value.
+I'm iOS and Backend Developer. Currently actively developing myself in the field of AI. The **toolbox** below captures programming languages, frameworks and other tools that I've been working with.
 
-* 🌍  I'm based in Munich
+* 🌍  Based in Munich, Germany
 * ✉️  You can contact me at [khinevichmihail@gmail.com](mailto:khinevichmihail@gmail.com)
-* 🧠  I'm currently learning Software Systems Architecture for LLM Agents: Patterns, Challenges and Best Practices
+
+#### GitHub Stats 📈
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khinevich&theme=radical&layout=compact&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Badges
 
