@@ -14,7 +14,16 @@ I'm iOS and Backend Developer. Currently actively developing myself in the field
 #### GitHub Stats 📈
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khinevich&theme=radical&layout=compact&hide=c%23)](https://github.com/anuraghazra/github-readme-stats) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khinevich&theme=default)
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khinevich&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khinevich&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khinevich&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khinevich&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khinevich&theme=aura&utcOffset=1)
+
+</div>
 
 ---
 
