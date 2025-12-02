@@ -32,8 +32,8 @@ I'm iOS and Backend Developer. Currently actively developing myself in the field
 <!-- BLOG-POST-LIST:START -->
 - [Swift-Cheatsheet, for iPraktikum course from Applied Education Technologies at Technical University of Munich](https://www.notion.so/iOS-25d371c1157d8086bb4be8278db8e9db?source=copy_link)
 - [Patterns in Software Engineering](https://www.notion.so/Patterns-in-Software-Engineering-28f371c1157d80e0b226d4adf3568607?source=copy_link)
-- [Knowledge Graph of Thoughts](https://github.com/khinevich/SE4AI/tree/main)
-- [Mikhail Khinevich Bachelor Thesis Proposal](https://github.com/khinevich/Bachelor_Thesis_Khinevich/tree/main)
+- [Knowledge Graph of Thoughts](https://github.com/khinevich/Knowledge_Graph_of_Thoughts/blob/main/Khinevich_KGoT.pdf)
+- [Mikhail Khinevich Bachelor Thesis Proposal](https://github.com/khinevich/Bachelor_Thesis_Khinevich/blob/main/proposal.pdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
